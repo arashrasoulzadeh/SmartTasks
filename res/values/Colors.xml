@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <color android:id="@+id/color1" name="BackGround" android:layout_width="wrap_content" android:layout_height="wrap_content">#ECECEC</color>
+    <color android:id="@+id/color2" name="ForGround" android:layout_width="wrap_content" android:layout_height="wrap_content">#e91e63</color>
+    <color android:id="@+id/color3" name="Contrast" android:layout_width="wrap_content" android:layout_height="wrap_content">#00FF17</color>
+
+</resources>
